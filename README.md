@@ -8,7 +8,7 @@ It is written and tested for the [ESP-IDF](https://github.com/espressif/esp-idf)
 
 ## Dependencies
 
-Requires [esp32-smbus](git@github.com:DavidAntliff/esp32-smbus.git).
+Requires [esp32-smbus](https://github.com/DavidAntliff/esp32-smbus).
 
 ## Example
 
