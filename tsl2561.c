@@ -288,10 +288,6 @@ esp_err_t tsl2561_init(tsl2561_info_t * tsl2561_info, smbus_info_t * smbus_info)
                 ESP_LOGE(TAG, "Unsupported device detected");
             }
         }
-        else
-        {
-            ESP_LOGE(TAG, "Failed to set default integration time");
-        }
     }
     else
     {
@@ -315,7 +311,7 @@ esp_err_t tsl2561_device_id(const tsl2561_info_t * tsl2561_info, tsl2561_device_
         }
         else
         {
-            ESP_LOGE(TAG, "Attempt to read ID register failed");
+            ESP_LOGE(TAG, "Failed to read device ID");
         }
     }
     return err;
