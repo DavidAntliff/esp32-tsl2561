@@ -336,7 +336,8 @@ esp_err_t tsl2561_read(tsl2561_info_t * tsl2561_info, tsl2561_visible_t * visibl
                 delay = 120;
                 break;
             default:
-                ESP_LOGW(TAG, "Invalid integration time: %d", tsl2561_info->integration_time); //no break
+                ESP_LOGW(TAG, "Invalid integration time: %d", tsl2561_info->integration_time);
+                /* fall through */
             case TSL2561_INTEGRATION_TIME_402MS:
                 // wait at least 450ms according to Adafruit driver
                 delay = 450;
