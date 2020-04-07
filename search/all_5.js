@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['tsl2561_2ec',['tsl2561.c',['../tsl2561_8c.html',1,'']]],
+  ['tsl2561_2eh',['tsl2561.h',['../tsl2561_8h.html',1,'']]],
+  ['tsl2561_5fcompute_5flux',['tsl2561_compute_lux',['../tsl2561_8h.html#a7980a886b4b49f0c8ae03723b9592c74',1,'tsl2561_compute_lux(const tsl2561_info_t *tsl2561_info, tsl2561_visible_t visible, tsl2561_infrared_t infrared):&#160;tsl2561.c'],['../tsl2561_8c.html#a7980a886b4b49f0c8ae03723b9592c74',1,'tsl2561_compute_lux(const tsl2561_info_t *tsl2561_info, tsl2561_visible_t visible, tsl2561_infrared_t infrared):&#160;tsl2561.c']]],
+  ['tsl2561_5fdevice_5fid',['tsl2561_device_id',['../tsl2561_8h.html#ad6dca3a9edda93bed24551b64df68e08',1,'tsl2561_device_id(const tsl2561_info_t *tsl2561_info, tsl2561_device_type_t *device, tsl2561_revision_t *revision):&#160;tsl2561.c'],['../tsl2561_8c.html#ad6dca3a9edda93bed24551b64df68e08',1,'tsl2561_device_id(const tsl2561_info_t *tsl2561_info, tsl2561_device_type_t *device, tsl2561_revision_t *revision):&#160;tsl2561.c']]],
+  ['tsl2561_5fdevice_5ftype_5finvalid',['TSL2561_DEVICE_TYPE_INVALID',['../tsl2561_8h.html#a7cad709c90934ffc3b0ec9cce844f01ba417b0cc58db41b79c4c79ee691d738b7',1,'tsl2561.h']]],
+  ['tsl2561_5fdevice_5ftype_5ft',['tsl2561_device_type_t',['../tsl2561_8h.html#a7cad709c90934ffc3b0ec9cce844f01b',1,'tsl2561.h']]],
+  ['tsl2561_5fdevice_5ftype_5ftsl2560cs',['TSL2561_DEVICE_TYPE_TSL2560CS',['../tsl2561_8h.html#a7cad709c90934ffc3b0ec9cce844f01ba53af26cd36ecd877c706e1195253d4d1',1,'tsl2561.h']]],
+  ['tsl2561_5fdevice_5ftype_5ftsl2560t_5ffn_5fcl',['TSL2561_DEVICE_TYPE_TSL2560T_FN_CL',['../tsl2561_8h.html#a7cad709c90934ffc3b0ec9cce844f01baeb9a6a73ef62dc517f106b1fc908e6b4',1,'tsl2561.h']]],
+  ['tsl2561_5fdevice_5ftype_5ftsl2561cs',['TSL2561_DEVICE_TYPE_TSL2561CS',['../tsl2561_8h.html#a7cad709c90934ffc3b0ec9cce844f01ba08aa80b1855b6985073139bf327b50fc',1,'tsl2561.h']]],
+  ['tsl2561_5fdevice_5ftype_5ftsl2561t_5ffn_5fcl',['TSL2561_DEVICE_TYPE_TSL2561T_FN_CL',['../tsl2561_8h.html#a7cad709c90934ffc3b0ec9cce844f01ba1779b7609578211b3b29252e2687ec0f',1,'tsl2561.h']]],
+  ['tsl2561_5ffree',['tsl2561_free',['../tsl2561_8h.html#a4299207d4c0551afd167c2048b20fdc4',1,'tsl2561_free(tsl2561_info_t **tsl2561_info):&#160;tsl2561.c'],['../tsl2561_8c.html#a4299207d4c0551afd167c2048b20fdc4',1,'tsl2561_free(tsl2561_info_t **tsl2561_info):&#160;tsl2561.c']]],
+  ['tsl2561_5fgain_5ft',['tsl2561_gain_t',['../tsl2561_8h.html#ad9279be01bdb658d598da12a8b40e294',1,'tsl2561.h']]],
+  ['tsl2561_5finfo_5ft',['tsl2561_info_t',['../structtsl2561__info__t.html',1,'']]],
+  ['tsl2561_5finfrared_5ft',['tsl2561_infrared_t',['../tsl2561_8h.html#a8de080685db694a983bbdf1ec5c9e368',1,'tsl2561.h']]],
+  ['tsl2561_5finit',['tsl2561_init',['../tsl2561_8h.html#a5585dd5a86aa433cc7ab4be7d333e433',1,'tsl2561_init(tsl2561_info_t *tsl2561_info, smbus_info_t *smbus_info):&#160;tsl2561.c'],['../tsl2561_8c.html#a5585dd5a86aa433cc7ab4be7d333e433',1,'tsl2561_init(tsl2561_info_t *tsl2561_info, smbus_info_t *smbus_info):&#160;tsl2561.c']]],
+  ['tsl2561_5fintegration_5ftime_5f101ms',['TSL2561_INTEGRATION_TIME_101MS',['../tsl2561_8h.html#ada2e4a93f7c856e003308a9148228a45aa08ef190ab9ac73ef4880f9b09683e67',1,'tsl2561.h']]],
+  ['tsl2561_5fintegration_5ftime_5f13ms',['TSL2561_INTEGRATION_TIME_13MS',['../tsl2561_8h.html#ada2e4a93f7c856e003308a9148228a45ae72972d665179936ebff23b2fe2011bc',1,'tsl2561.h']]],
+  ['tsl2561_5fintegration_5ftime_5f402ms',['TSL2561_INTEGRATION_TIME_402MS',['../tsl2561_8h.html#ada2e4a93f7c856e003308a9148228a45a342c469ec307736a9330ec0eb7dfce87',1,'tsl2561.h']]],
+  ['tsl2561_5fintegration_5ftime_5ft',['tsl2561_integration_time_t',['../tsl2561_8h.html#ada2e4a93f7c856e003308a9148228a45',1,'tsl2561.h']]],
+  ['tsl2561_5fmalloc',['tsl2561_malloc',['../tsl2561_8h.html#ade1afd851c7ee85fb952873db0fe49e5',1,'tsl2561_malloc(void):&#160;tsl2561.c'],['../tsl2561_8c.html#ade1afd851c7ee85fb952873db0fe49e5',1,'tsl2561_malloc(void):&#160;tsl2561.c']]],
+  ['tsl2561_5fread',['tsl2561_read',['../tsl2561_8h.html#a57bbc17784ac305452ab59f0373d59f2',1,'tsl2561_read(tsl2561_info_t *tsl2561_info, tsl2561_visible_t *visible, tsl2561_infrared_t *infrared):&#160;tsl2561.c'],['../tsl2561_8c.html#a57bbc17784ac305452ab59f0373d59f2',1,'tsl2561_read(tsl2561_info_t *tsl2561_info, tsl2561_visible_t *visible, tsl2561_infrared_t *infrared):&#160;tsl2561.c']]],
+  ['tsl2561_5frevision_5ft',['tsl2561_revision_t',['../tsl2561_8h.html#af560d956e74f6f5a236a3a07eb745f0d',1,'tsl2561.h']]],
+  ['tsl2561_5fset_5fintegration_5ftime_5fand_5fgain',['tsl2561_set_integration_time_and_gain',['../tsl2561_8h.html#a46df11134921e4071e35d2ed12b86b51',1,'tsl2561_set_integration_time_and_gain(tsl2561_info_t *tsl2561_info, tsl2561_integration_time_t integration_time, tsl2561_gain_t gain):&#160;tsl2561.c'],['../tsl2561_8c.html#a46df11134921e4071e35d2ed12b86b51',1,'tsl2561_set_integration_time_and_gain(tsl2561_info_t *tsl2561_info, tsl2561_integration_time_t integration_time, tsl2561_gain_t gain):&#160;tsl2561.c']]],
+  ['tsl2561_5fvisible_5ft',['tsl2561_visible_t',['../tsl2561_8h.html#aa91ed93fc97b09c5e8bbbc9b7fef9f36',1,'tsl2561.h']]]
+];
